@@ -1,0 +1,239 @@
+1. voting.py
+   WAP to check the eligibility criteria for voting  
+
+2. Election.py
+   WAP to check the eligibility criteria for participating in election
+ 
+3. voting_election.py
+   WAP to check the eligibility criteria for voting & participating in election 
+
+4. greatest_number.py
+   WAP to find greatest of 3 numbers a=10,b=27,c=6. 
+
+5. divisible_by_10.py
+   WAP to check whether 10 is divisible in both 2 and 4.
+6. divisible_by_3.py
+   WAP to check whether 8 is divisible in either 3 or 4.
+
+7. grade.py
+   WAP to print Grades:  
+   Grade A: if marks is between 76 and 100
+   Grade B: if marks is between  51 and 75
+   Grade C: if marks is between 26 and 50
+   Grade D: if marks is between 0 and 25
+
+8. positive_negative_zero.py
+   Write a Python program to check if a number is positive, negative, or zero.
+
+9. even_odd.py
+   Write a Python code to check if a number is even or odd
+
+10. max_of_3.py
+   Write a Python program to find the maximum of three numbers
+
+11. first_10_natural_nums.py
+   Exercise 1: Print first 10 natural numbers using for loop
+
+12. sum_of_all_nums.py
+   Exercise 2: Calculate sum of all numbers from 1 to a given number
+
+13. multiplication.py
+   Exercise 3: Print multiplication table of a given number
+
+14. for_loop.py
+   Exercise 4: Display a message “Done” after the successful execution of the for loop
+
+15. display_-1_-10.py
+   Exercise 5: Display numbers from -10 to -1 using for loop
+
+
+16 first_10_natural_number_while.py
+Exercise 1: Print first 10 natural numbers using while loop
+
+17.sum_of_allnos_while.py
+Exercise 2: Calculate sum of all numbers from 1 to a given number
+
+18.multiplication_while
+Exercise 3: Print multiplication table of a given number
+
+
+19. count_digits_while.py
+Exercise 4: Count the total number of digits in a number   
+
+
+20. list_operation.py
+Exercise 1. Perform Basic List Operations
+Access the third element of a list
+List Length: Print the total number of items
+Check if the list is empty
+
+
+21. list_manipulation.py
+Exercise 2. Perform List Manipulation
+
+Change Element: Change the second element of a list to 200 and print the updated list.
+Append Element: Add 600 o the end of a list and print the new list.
+Insert Element: Insert 300 at the third position (index 2) of a list and print the result.
+Remove Element (by value): Remove 600 from the list and print the list.
+Remove Element (by index): Remove the element at index 0 from the list print the list.
+
+
+22.list_sum_avg.py
+Exercise 3. Sum and Average of All Numbers in a List
+
+23. list_max_min.py
+Exercise 4. Find Maximum and Minimum from List
+
+24.cal_product_all_elements.py
+Exercise 5. Calculate the Product of All Elements
+
+25. list_odd_even.py
+Exercise 6. Count Even and Odd Numbers
+
+26.list_reverse.py
+Exercise 7. Reverse a List
+
+27. list_sort.py
+Exercise 8. Sort a List of Numbers
+
+28. list_copy.py
+Exercise 9. Create a Copy of a List
+
+29. list_Combine.py
+Exercise 10. Combine Two Lists
+
+tuple
+30 basic_tuple.py
+Exercise 1: Basic Tuple Operations
+Purpose: This exercise introduces you to the fundamental building blocks of 
+working with tuples: creating them, retrieving individual elements using index positions,
+ and measuring their size using len(). These are the first skills you need
+  before working with any tuple-based data.
+
+31. tuple_trailing_comma.py
+Exercise 2: The Trailing Comma
+
+32 tuple_repetition.py
+Exercise 3: Tuple Repetition
+
+33 tuple_Concatenation.py
+Exercise 4: Tuple Concatenation
+
+34. tuple Slicing.py
+Exercise 5: Tuple Slicing
+
+35. tuple_reverse.py
+Exercise 6: Tuple Reversal
+
+36. tuple_count.py
+Exercise 7: Counting
+
+37. tuple_unpacking.py
+Exercise 8: Tuple Unpacking
+
+38. tuple_swap.py
+Exercise 9: The Swap Trick
+
+39
+Exercise 10: Nested Tuple Access
+
+
+Set
+40. set_basic_operations.py
+Exercise 1: Basic Set Operations
+
+41.  set_Clear_all_elements.py
+Exercise 2: Clear All Elements
+
+42. set_find_len.py
+Exercise 3: Find the Length of a Set
+
+43. set_empty.py
+Exercise 4: Check if a Set is Empty
+
+
+44. set_Union_operation.py
+Exercise 5: Union of Sets
+
+45. set_Intersection_operation.py
+Exercise 6: Intersection of Sets
+
+46. set_Difference_operation.py
+Exercise 7: Difference of Sets
+
+47.
+Exercise 8: Symmetric Difference
+
+48. set_max_min.py
+Exercise 9: Find Max and Min
+
+49. set_sum.py
+Exercise 10: Sum of Set Elements
+
+50. basic_dict.py
+Exercise 1: Basic Dictionary Operations
+person = {"name": "Carol", "address": {"city": "Paris", "zip": "75001"}}
+
+51.  dict_operation.py
+Exercise 2: Dictionary Operations
+student = {"name": "Dave", "grades": {"math": 88, "science": 92, "history": 75}}
+
+
+52.  dict_create_1dictionary_frm_2lists.py
+Exercise 3: Dictionary from Two Lists
+
+53.  dict_clear.py
+Exercise 4: Clear Dictionary
+
+54. dict_merge.py
+Exercise 5: Merge Dictionaries
+
+55.  dict_access_Nested.py
+Exercise 6: Access Nested Dictionary
+
+56. dict_access_certain_key.py
+Exercise 7: Access ‘history’ Key From a Nested Dictionary
+
+57.  dict_initialize_dict_with_Default_values.py
+Exercise 8: Initialize Dictionary with Default Values
+
+58.  dict_rename_Key.py
+Exercise 9: Rename a Key of Dictionary
+
+59.  dict_delete_list_of_keys.py
+Exercise 10: Delete a List of Keys
+
+60. FUnction
+
+62.  funct_operation.py
+WAP to define a function for sum, difference, multiplication and division
+
+63. funct_even_nos.py
+WAP to print the even number from a range by defining functions
+
+
+64. funct_max_3nos.py
+1. Write a Python function to find the maximum of three numbers.
+
+65. funct_sum_of_all_in_list.py
+2. Write a Python function to sum all the numbers in a list.
+
+66. funct_multi_from_list.py
+3. Write a Python function to multiply all the numbers in a list.
+
+67.
+
+4. Write a Python function to calculate the factorial of a number (a non-negative integer). The function accepts the number as an argument.
+
+68. funct_even_nos.py
+5. Write a Python program to print the even numbers from a given list.
+
+
+70. Lamda
+
+Write a Python program to sort tuples using Lambda.
+
+Write a Python program to square and cube every number in a given list of integers using Lambda
+Write a Python program to count the even and odd numbers in a given list of integers using Lambda.
+Write a Python program to add two given lists using map and lambda.
+
